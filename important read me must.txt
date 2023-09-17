@@ -1,0 +1,1 @@
+rename "jshintrc" file to this name ".jshintrc" in build/grunt folder.
